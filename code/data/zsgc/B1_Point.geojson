@@ -1,0 +1,748 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3857"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40070,
+                    37258
+                ]
+            },
+            "properties": {
+                "name": "中商广场",
+                "uid": "8c153a1833fc02ea2b201a63",
+                "type": 192,
+                "rank": 20000,
+                "sid": 60001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46779,
+                    42900
+                ]
+            },
+            "properties": {
+                "name": "侧门1",
+                "uid": "0373073d790744f5af31e5aa",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44558,
+                    35088
+                ]
+            },
+            "properties": {
+                "name": "侧门2",
+                "uid": "0097306827defe074afc8d3d",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47179,
+                    41713
+                ]
+            },
+            "properties": {
+                "name": "科菲生物",
+                "uid": "e9e0bfe05502dbafc9e33c70",
+                "type": 60,
+                "rank": 18000,
+                "sid": 158,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41840,
+                    39815
+                ]
+            },
+            "properties": {
+                "name": "优品汇服务台",
+                "uid": "3ba352be7552b7ce80a00ce2",
+                "type": 124,
+                "rank": 18000,
+                "sid": 29,
+                "icon": "Indoor_Public3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42509,
+                    34724
+                ]
+            },
+            "properties": {
+                "name": "麦当劳",
+                "uid": "83b64e936dbc3317704b8740",
+                "type": 124,
+                "rank": 15999,
+                "sid": 118,
+                "icon": "Indoor_SpecialLogo2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43825,
+                    37735
+                ]
+            },
+            "properties": {
+                "name": "祐禾",
+                "uid": "d2e64100e1dbd3656cc02c59",
+                "type": 252,
+                "rank": 15700,
+                "sid": 106,
+                "icon": "Indoor_Food4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45132,
+                    37903
+                ]
+            },
+            "properties": {
+                "name": "茶百道",
+                "uid": "9bb45620304e9f72c1f1cf36",
+                "type": 252,
+                "rank": 15700,
+                "sid": 106,
+                "icon": "Indoor_Food4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39703,
+                    38176
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼",
+                "uid": "abd2d56db9452885adcb663d",
+                "type": 252,
+                "rank": 15700,
+                "sid": 106,
+                "icon": "Indoor_Food4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44026,
+                    36286
+                ]
+            },
+            "properties": {
+                "name": "麦当劳甜品站",
+                "uid": "f48bff08cf73d1f6e115f966",
+                "type": 252,
+                "rank": 15700,
+                "sid": 106,
+                "icon": "Indoor_Food4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40286,
+                    43421
+                ]
+            },
+            "properties": {
+                "name": "中商优品汇超市",
+                "uid": "f0cc4d6b9cd0fe00c72ba161",
+                "type": 252,
+                "rank": 15700,
+                "sid": 87,
+                "icon": "Indoor_Shop2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41543,
+                    36954
+                ]
+            },
+            "properties": {
+                "name": "虾甲家烧烤",
+                "uid": "38e4fe3faa781804ca09f040",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42418,
+                    37281
+                ]
+            },
+            "properties": {
+                "name": "金童子",
+                "uid": "222c51d09aa0843897031919",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46084,
+                    39247
+                ]
+            },
+            "properties": {
+                "name": "煎子生",
+                "uid": "3f56d0a068b16abd1ce999a4",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43171,
+                    37914
+                ]
+            },
+            "properties": {
+                "name": "花小甲",
+                "uid": "5f5ed24e79c342e622f0176e",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42984,
+                    36431
+                ]
+            },
+            "properties": {
+                "name": "福荣记金牌\\烧鹅饭",
+                "uid": "e567dc6cc966a36bc8fa5f9e",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41809,
+                    37551
+                ]
+            },
+            "properties": {
+                "name": "美食流·贵哥\\卤肉卷",
+                "uid": "1939d89d282e82e830169ba0",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41323,
+                    35227
+                ]
+            },
+            "properties": {
+                "name": "香识",
+                "uid": "91aaace203694dad0782c2bd",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41077,
+                    37858
+                ]
+            },
+            "properties": {
+                "name": "十秒到过桥米线",
+                "uid": "0df566d2ba7610ce1ce999a6",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42153,
+                    36671
+                ]
+            },
+            "properties": {
+                "name": "黑粉你肥牛\\火锅粉",
+                "uid": "758b5ef758e4c916047ce87d",
+                "type": 252,
+                "rank": 15700,
+                "sid": 100,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40812,
+                    37261
+                ]
+            },
+            "properties": {
+                "name": "西北杂粮\\筐凉皮大王",
+                "uid": "44309a8a6105cfd46f47608d",
+                "type": 252,
+                "rank": 15700,
+                "sid": 99,
+                "icon": "Indoor_Food1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43249,
+                    37028
+                ]
+            },
+            "properties": {
+                "name": "维多利亚的格调",
+                "uid": "88eaec4249e09573bca822c7",
+                "type": 252,
+                "rank": 15700,
+                "sid": 102,
+                "icon": "Indoor_Food2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46637,
+                    40493
+                ]
+            },
+            "properties": {
+                "name": "良品铺子",
+                "uid": "04e47eb298dd25302fb96d3d",
+                "type": 252,
+                "rank": 15700,
+                "sid": 88,
+                "icon": "Indoor_Shop2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42106,
+                    39782
+                ]
+            },
+            "properties": {
+                "name": "名烟名酒",
+                "uid": "bb911ab2e5566e6b2b3a9f8a",
+                "type": 252,
+                "rank": 15700,
+                "sid": 88,
+                "icon": "Indoor_Shop2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44944,
+                    37462
+                ]
+            },
+            "properties": {
+                "name": "继光香香鸡",
+                "uid": "4a1212160b704ae1c356acbd",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40501,
+                    38411
+                ]
+            },
+            "properties": {
+                "name": "存包柜",
+                "uid": "ecaad72a93497c967602696a",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41740,
+                    40250
+                ]
+            },
+            "properties": {
+                "name": "共享免费秤",
+                "uid": "acc878a71943d14188db7317",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46360,
+                    39870
+                ]
+            },
+            "properties": {
+                "name": "盛香亭",
+                "uid": "baa1b9d4760c4ded88f15dce",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39826,
+                    37459
+                ]
+            },
+            "properties": {
+                "name": "消防应急柜",
+                "uid": "f5aeb85267145753112935ec",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45331,
+                    38357
+                ]
+            },
+            "properties": {
+                "name": "廖记棒棒鸡",
+                "uid": "5a3280e8464ddb621ef74de9",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45974,
+                    37651
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "7633844244a3552f5f0d02b4",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40421,
+                    40685
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "4dbc8406f1a2ec98f4231021",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40521,
+                    40906
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "c00b1b264185003f4d55470a",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45808,
+                    37724
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "06b38a689cad3d4fe6e96576",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44735,
+                    35619
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "9251db738bf1a58df119375e",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45587,
+                    37810
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "1a7b335b4652bca3c27da2d9",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39061,
+                    37751
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "a1b1f6f07d842197abf0cd4f",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46535,
+                    42419
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "b8f7491fc897bd678bf15d56",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44807,
+                    42474
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "4ba15ef932aa2dc397ec840f",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45696,
+                    38776
+                ]
+            },
+            "properties": {
+                "name": "CoCo都可茶饮",
+                "uid": "e1179cf9ae4a5a6558f6be8f",
+                "type": 252,
+                "rank": 0,
+                "sid": 20675,
+                "icon": "Indoor_coco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41719,
+                    38745
+                ]
+            },
+            "properties": {
+                "name": "北京同仁堂",
+                "uid": "19eede4782c7ddcef6e73b4a",
+                "type": 252,
+                "rank": 0,
+                "sid": 20691,
+                "icon": "Indoor_tongrentang"
+            }
+        }
+    ]
+}

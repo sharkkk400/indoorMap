@@ -1,0 +1,25 @@
+.form_upload {
+    position: absolute;
+    top: auto;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 45%;
+    text-align: center;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.login_logo{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin: 10px;
+}
+.submit_bt{
+    margin: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3857"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40070,
+                    37258
+                ]
+            },
+            "properties": {
+                "name": "中商广场",
+                "uid": "8c153a1833fc02ea2b201a63",
+                "type": 192,
+                "rank": 20000,
+                "sid": 60001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41192,
+                    32704
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "7e0ad42c71e5869fadcb6673",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41281,
+                    32873
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "fd5fd454e7f9fa3f04fef5be",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38490,
+                    32185
+                ]
+            },
+            "properties": {
+                "name": "海底捞火锅",
+                "uid": "1427d7b8ce8e78f02b201ae4",
+                "type": 252,
+                "rank": 0,
+                "sid": 20660,
+                "icon": "Indoor_haidilao"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>武汉市中商广场</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        html,
+        body,
+        #map {
+            height: 100%;
+        }
+    </style>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+</head>
+<body onload="init()">
+
+    <div id='map'></div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiYXJzbHh5IiwiYSI6ImNqZzRzemViajJ4MWUzM3Bjc3Z2M283ajMifQ.VuhGIVxu7Y9H7V4gUxTMdw';
+        var map = window.map = new mapboxgl.Map({
+            container: 'map',
+            zoom: 15.4,
+            center: [114.326211,30.539275],
+            bearing: 80,
+            pitch: 60,
+            style: 'mapbox://styles/mapbox/streets-v11?optimize=true',//'mapbox://styles/arslxy/cjqly7jm000eq2ro676n5s68d',//用去掉建筑的底图
+            hash: true,
+            visualizePitch:true,
+            antialias:true,//mapbox新功能，室内地图显示效果明显更细腻了
+        });
+
+        function init(){
+            map.flyTo({
+                center: [114.326211,30.539275],
+                zoom: 17,
+                bearing: 80,
+                pitch:60,
+                speed: 0.2,
+                curve: 1,
+                easing: function (t) { return t; }
+            })
+        }
+    </script>
+
+    <script src="lib/jquery.min.js"></script>
+
+    <script src='lib/mapbox-gl.js'></script>
+    <link href='lib/mapbox-gl.css' rel='stylesheet' />
+    <script src="lib/mapbox-gl-draw.js"></script>
+    <link href="css/mapbox-gl-draw.css" rel="stylesheet">
+    <script src='lib/mapbox-gl-language.js'></script>
+
+    <!-- 自己重新bundle的threebox库，用于在mapbox地图上添加室内三维场景、三维动态符号。用96版本的three.js bundle的，因为有sizeAttenuation，用的最新的threebox（Apr 26, 2019）对应94的three.js-->
+    <script src="js/threebox96new.js"></script>
+    <!--动画控制的库，例如室内地图楼层控制的动画效果-->
+    <script src="lib/Tween.min.js"></script>
+    <!--颜色调整的库，用于室内地图配色-->
+    <script src="lib/tinycolor.js"></script>
+
+    <!-- three.js相关的库 -->
+    <script src="js/three/Detector.js"></script>
+    <script src="js/three/dat.gui.js"></script>
+    <script src="js/three/OrbitControls.js"></script>
+    <script src="js/three/Projector.js"></script>
+    <script src="js/three/stats.js"></script>
+
+    <!--样式信息-->
+    <link href="./css/style.css" rel="stylesheet" />
+    <!--室内地图POI符号-->
+    <script src="js/indoor/symbol.js"></script>
+    <script src="js/indoor/IndoorMap.js"></script>
+    <!--室内地图主题 例如不同类型房间所用的颜色-->
+    <script src="js/indoor/Theme.js"></script>
+    <script src="js/indoor/IndoorMap2d.js"></script>
+    <script src="js/indoor/IndoorMap3d.js"></script>
+    <link href="css/indoor3D.css" rel="stylesheet">
+
+    <script src="js/zsgc.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,3116 @@
+{
+  "0": [
+    null,
+    0,
+    "Indoor_Public1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "48": [
+    null,
+    0,
+    "Indoor_Public2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "80": [
+    null,
+    0,
+    "Indoor_Public3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "112": [
+    null,
+    0,
+    "Indoor_Public4",
+    0,
+    null,
+    0,
+    100
+  ],
+  "144": [
+    null,
+    0,
+    "Indoor_Public5",
+    0,
+    null,
+    0,
+    100
+  ],
+  "176": [
+    null,
+    0,
+    "Indoor_Public6",
+    0,
+    null,
+    0,
+    100
+  ],
+  "208": [
+    null,
+    0,
+    "Indoor_Public7",
+    0,
+    null,
+    0,
+    100
+  ],
+  "240": [
+    null,
+    0,
+    "Indoor_Public8",
+    0,
+    null,
+    0,
+    100
+  ],
+  "272": [
+    null,
+    0,
+    "Indoor_Public9",
+    0,
+    null,
+    0,
+    100
+  ],
+  "304": [
+    null,
+    0,
+    "Indoor_Elevator1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "336": [
+    null,
+    0,
+    "Indoor_Elevator2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "368": [
+    null,
+    0,
+    "Indoor_Elevator3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "400": [
+    null,
+    0,
+    "Indoor_Entry1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "432": [
+    null,
+    0,
+    "Indoor_Toilet1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "464": [
+    null,
+    0,
+    "Indoor_Toilet2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "496": [
+    null,
+    0,
+    "Indoor_Toilet3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "528": [
+    null,
+    0,
+    "Indoor_Toilet4",
+    0,
+    null,
+    0,
+    100
+  ],
+  "560": [
+    null,
+    0,
+    "Indoor_Toilet5",
+    0,
+    null,
+    0,
+    100
+  ],
+  "592": [
+    null,
+    0,
+    "Indoor_Bank1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "624": [
+    null,
+    0,
+    "Indoor_Bank2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "656": [
+    null,
+    0,
+    "Indoor_Bank3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "688": [
+    null,
+    0,
+    "Indoor_Stop1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "720": [
+    null,
+    0,
+    "Indoor_Stop2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "752": [
+    null,
+    0,
+    "Indoor_Stop3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "784": [
+    null,
+    0,
+    "Indoor_Stop4",
+    0,
+    null,
+    0,
+    100
+  ],
+  "816": [
+    null,
+    0,
+    "Indoor_Traffic1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "848": [
+    null,
+    0,
+    "Indoor_Traffic2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "880": [
+    null,
+    0,
+    "Indoor_RailWay1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "912": [
+    null,
+    0,
+    "Indoor_RailWay2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "944": [
+    null,
+    0,
+    "Indoor_RailWay3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "976": [
+    null,
+    0,
+    "Indoor_Airport1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1008": [
+    null,
+    0,
+    "Indoor_Shop1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1040": [
+    null,
+    0,
+    "Indoor_Shop2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1072": [
+    null,
+    0,
+    "Indoor_Shop3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1104": [
+    null,
+    0,
+    "Indoor_Shop4",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1136": [
+    null,
+    0,
+    "Indoor_Shop5",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1168": [
+    null,
+    0,
+    "Indoor_Shop6",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1200": [
+    null,
+    0,
+    "Indoor_Shop7",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1232": [
+    null,
+    0,
+    "Indoor_Food1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1264": [
+    null,
+    0,
+    "Indoor_Food2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1296": [
+    null,
+    0,
+    "indoor_Coffee",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1328": [
+    null,
+    0,
+    "Indoor_Food4",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1360": [
+    null,
+    0,
+    "Indoor_Joy1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1392": [
+    null,
+    0,
+    "Indoor_Joy2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1424": [
+    null,
+    0,
+    "Indoor_Joy3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1456": [
+    null,
+    0,
+    "Indoor_Life1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1488": [
+    null,
+    0,
+    "Indoor_SpecialLogo1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1520": [
+    null,
+    0,
+    "Indoor_SpecialLogo2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "1552": [
+    null,
+    0,
+    "Indoor_SpecialLogo3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2480": [
+    null,
+    0,
+    "Indoor_SpecialLogo4",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2512": [
+    null,
+    0,
+    "Indoor_SpecialLogo5",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2544": [
+    null,
+    0,
+    "Indoor_SpecialLogo6",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2576": [
+    null,
+    0,
+    "Indoor_SpecialLogo7",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2608": [
+    null,
+    0,
+    "Indoor_SpecialLogo8",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2640": [
+    null,
+    0,
+    "Indoor_SpecialLogo9",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2672": [
+    null,
+    0,
+    "Indoor_SpecialLogo10",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2704": [
+    null,
+    0,
+    "Indoor_SpecialLogo11",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2736": [
+    null,
+    0,
+    "Indoor_SpecialLogo12",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2768": [
+    null,
+    0,
+    "Indoor_SpecialLogo13",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2800": [
+    null,
+    0,
+    "Indoor_SpecialLogo14",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2832": [
+    null,
+    0,
+    "Indoor_SpecialLogo15",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2864": [
+    null,
+    0,
+    "Indoor_SpecialLogo16",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2896": [
+    null,
+    0,
+    "Indoor_SpecialLogo17",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2928": [
+    null,
+    0,
+    "Indoor_SpecialLogo18",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2960": [
+    null,
+    0,
+    "Indoor_SpecialLogo19",
+    0,
+    null,
+    0,
+    100
+  ],
+  "2992": [
+    null,
+    0,
+    "Indoor_SpecialLogo20",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3024": [
+    null,
+    0,
+    "Indoor_SpecialLogo21",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3056": [
+    null,
+    0,
+    "Indoor_SpecialLogo22",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3088": [
+    null,
+    0,
+    "Indoor_SpecialLogo23",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3120": [
+    null,
+    0,
+    "Indoor_SpecialLogo24",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3152": [
+    null,
+    0,
+    "Indoor_SpecialLogo25",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3184": [
+    null,
+    0,
+    "Indoor_SpecialLogo26",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3216": [
+    null,
+    0,
+    "Indoor_SpecialLogo27",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3248": [
+    null,
+    0,
+    "Indoor_SpecialLogo28",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3280": [
+    null,
+    0,
+    "Indoor_SpecialLogo29",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3312": [
+    null,
+    0,
+    "Indoor_SpecialLogo30",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3344": [
+    null,
+    0,
+    "Indoor_SpecialLogo31",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3376": [
+    null,
+    0,
+    "Indoor_SpecialLogo32",
+    0,
+    null,
+    0,
+    100
+  ],
+  "3409": [
+    null,
+    0,
+    "Indoor_Z",
+    0,
+    null,
+    0,
+    100
+  ],
+  "36817": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "36849": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "36881": [
+    null,
+    0,
+    "indoor_gongyongdianhua",
+    0,
+    null,
+    0,
+    100
+  ],
+  "36913": [
+    null,
+    0,
+    "indoor_fuyin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "36945": [
+    null,
+    0,
+    "indoor_yimaojian",
+    0,
+    null,
+    0,
+    100
+  ],
+  "36977": [
+    null,
+    0,
+    "indoor_zuoyi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37009": [
+    null,
+    0,
+    "indoor_ertongkanhuchu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37041": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37073": [
+    null,
+    0,
+    "indoor_shuipingdianqi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37105": [
+    null,
+    0,
+    "indoor_churukou",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37137": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37169": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37201": [
+    null,
+    0,
+    "indoor_xinglifuwu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37233": [
+    null,
+    0,
+    "indoor_airline",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37297": [
+    null,
+    0,
+    "indoor_Toilet",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37329": [
+    null,
+    0,
+    "indoor_MenToilet",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37361": [
+    null,
+    0,
+    "indoor_Toilet",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37363": [
+    null,
+    0,
+    "indoor_WomenToilet",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37393": [
+    null,
+    0,
+    "indoor_canzhangzhuanyong",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37425": [
+    null,
+    0,
+    "indoor_ATM",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37457": [
+    null,
+    0,
+    "indoor_qiantai",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37489": [
+    null,
+    0,
+    "indoor_paichushuo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37521": [
+    null,
+    0,
+    "indoor_jijiu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37553": [
+    null,
+    0,
+    "indoor_Smoking",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37585": [
+    null,
+    0,
+    "indoor_piaowu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37617": [
+    null,
+    0,
+    "indoor_VIP",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37649": [
+    null,
+    0,
+    "indoor_louqi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37681": [
+    null,
+    0,
+    "indoor_fuqi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37713": [
+    null,
+    0,
+    "indoor_zhiqi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37745": [
+    null,
+    0,
+    "indoor_jinjichukou",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37777": [
+    null,
+    0,
+    "indoor_anquanjiancha",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37809": [
+    null,
+    0,
+    "indoor_AirportBus",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37841": [
+    null,
+    0,
+    "indoor_AirportBus",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37873": [
+    null,
+    0,
+    "indoor_huobiduihuan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37905": [
+    null,
+    0,
+    "indoor_zhishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37937": [
+    null,
+    0,
+    "indoor_zhishi1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "37969": [
+    null,
+    0,
+    "indoor_zhishi2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38001": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38033": [
+    null,
+    0,
+    "indoor_zhishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38065": [
+    null,
+    0,
+    "indoor_zhishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38097": [
+    null,
+    0,
+    "indoor_zhishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38129": [
+    null,
+    0,
+    "indoor_zhishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38161": [
+    null,
+    0,
+    "indoor_zhishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38193": [
+    null,
+    0,
+    "indoor_checkin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38225": [
+    null,
+    0,
+    "indoor_tingchecang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38257": [
+    null,
+    0,
+    "indoor_canyin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38289": [
+    null,
+    0,
+    "indoor_zhongcan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38321": [
+    null,
+    0,
+    "indoor_xican",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38353": [
+    null,
+    0,
+    "indoor_canyin1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38385": [
+    null,
+    0,
+    "indoor_canyin2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38417": [
+    null,
+    0,
+    "indoor_zhongcan1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38449": [
+    null,
+    0,
+    "indoor_yonghedawang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38481": [
+    null,
+    0,
+    "indoor_xishikuaican",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38513": [
+    null,
+    0,
+    "indoor_Coffee",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38545": [
+    null,
+    0,
+    "indoor_yinliao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38577": [
+    null,
+    0,
+    "indoor_yinliao1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38609": [
+    null,
+    0,
+    "indoor_yinliao2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38641": [
+    null,
+    0,
+    "indoor_canyin3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38673": [
+    null,
+    0,
+    "indoor_yule",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38705": [
+    null,
+    0,
+    "indoor_Cinema",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38737": [
+    null,
+    0,
+    "indoor_yinyueting",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38769": [
+    null,
+    0,
+    "indoor_xiyuan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38801": [
+    null,
+    0,
+    "indoor_KTV",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38833": [
+    null,
+    0,
+    "indoor_gewuting",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38865": [
+    null,
+    0,
+    "indoor_qipaishi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38897": [
+    null,
+    0,
+    "indoor_zhuomianyouxi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38929": [
+    null,
+    0,
+    "indoor_youleyouyi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38961": [
+    null,
+    0,
+    "indoor_youleyouyi1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "38993": [
+    null,
+    0,
+    "indoor_qitayule",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39025": [
+    null,
+    0,
+    "indoor_jianshenzhongxin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39057": [
+    null,
+    0,
+    "indoor_xiyuanmo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39089": [
+    null,
+    0,
+    "indoor_tiyuchangguan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39121": [
+    null,
+    0,
+    "indoor_gongyilipin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39153": [
+    null,
+    0,
+    "indoor_gouwu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39185": [
+    null,
+    0,
+    "indoor_SuperMarket",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39217": [
+    null,
+    0,
+    "indoor_yaodian",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39249": [
+    null,
+    0,
+    "indoor_fushixiemao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39281": [
+    null,
+    0,
+    "indoor_nanzhuang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39313": [
+    null,
+    0,
+    "indoor_nvzhuang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39345": [
+    null,
+    0,
+    "indoor_muyinertong",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39377": [
+    null,
+    0,
+    "indoor_yundongxiuxian",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39409": [
+    null,
+    0,
+    "indoor_xiangbaopiju",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39441": [
+    null,
+    0,
+    "indoor_huazhuangpin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39473": [
+    null,
+    0,
+    "indoor_jinyinzhubao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39505": [
+    null,
+    0,
+    "indoor_zhongbiaoyanjing",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39537": [
+    null,
+    0,
+    "indoor_jiayongdianqi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39569": [
+    null,
+    0,
+    "indoor_shumachanpin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39601": [
+    null,
+    0,
+    "indoor_jiajujiaju",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39633": [
+    null,
+    0,
+    "indoor_shipinchajiu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39665": [
+    null,
+    0,
+    "indoor_wenhuabangong",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39697": [
+    null,
+    0,
+    "indoor_shenghuofuwu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39729": [
+    null,
+    0,
+    "indoor_youju",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39761": [
+    null,
+    0,
+    "indoor_Bank",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39793": [
+    null,
+    0,
+    "indoor_shenghuofuwu1",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39825": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39857": [
+    null,
+    0,
+    "indoor_shenghuofuwu3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39889": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39921": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39953": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "39985": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40017": [
+    null,
+    0,
+    "indoor_yiliao3",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40049": [
+    null,
+    0,
+    "indoor_yiyuan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40081": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40113": [
+    null,
+    0,
+    "indoor_AirportBus",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40145": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40177": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40209": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40241": [
+    null,
+    0,
+    "indoor_qita",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40273": [
+    null,
+    0,
+    "indoor_MCDonald",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40305": [
+    null,
+    0,
+    "indoor_Food2",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40337": [
+    null,
+    0,
+    "indoor_saibaiwei",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40369": [
+    null,
+    0,
+    "indoor_xingbake",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40401": [
+    null,
+    0,
+    "indoor_ICBC",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40433": [
+    null,
+    0,
+    "indoor_jiansheyinhang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40465": [
+    null,
+    0,
+    "indoor_nongyeyinhang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40497": [
+    null,
+    0,
+    "indoor_zhongguoyinhang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40529": [
+    null,
+    0,
+    "indoor_jiaotongyinhang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "40561": [
+    null,
+    0,
+    "indoor_zhaoshangyinhang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "46609": [
+    null,
+    0,
+    "indoor_huiyiqu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "46641": [
+    null,
+    0,
+    "indoor_xiehuoqu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "46673": [
+    null,
+    0,
+    "indoor_yinliao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "50353": [
+    null,
+    0,
+    "indoor_yinliao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "50801": [
+    null,
+    0,
+    "Indoor_start",
+    0,
+    null,
+    0,
+    100
+  ],
+  "50833": [
+    null,
+    0,
+    "Indoor_end",
+    0,
+    null,
+    0,
+    100
+  ],
+  "51057": [
+    null,
+    0,
+    "Bubble",
+    0,
+    null,
+    0,
+    100
+  ],
+  "52049": [
+    null,
+    0,
+    "Indoor_Location",
+    0,
+    null,
+    0,
+    100
+  ],
+  "52081": [
+    null,
+    0,
+    "Indoor_None",
+    0,
+    null,
+    0,
+    100
+  ],
+  "660978": [
+    null,
+    0,
+    "Indoor_youhuo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661010": [
+    null,
+    0,
+    "Indoor_waipojia",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661042": [
+    null,
+    0,
+    "Indoor_meizhouxiaochi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661074": [
+    null,
+    0,
+    "Indoor_huangjihuang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661106": [
+    null,
+    0,
+    "Indoor_quanjude",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661138": [
+    null,
+    0,
+    "Indoor_haidilao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661170": [
+    null,
+    0,
+    "Indoor_xinladao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661202": [
+    null,
+    0,
+    "Indoor_hannashan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661234": [
+    null,
+    0,
+    "Indoor_quanjincheng",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661266": [
+    null,
+    0,
+    "Indoor_zhengyiwei",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661298": [
+    null,
+    0,
+    "Indoor_huizhuanshousi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661330": [
+    null,
+    0,
+    "Indoor_yonghedoujiang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661362": [
+    null,
+    0,
+    "Indoor_kangshifu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661394": [
+    null,
+    0,
+    "Indoor_jiaheyipin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661426": [
+    null,
+    0,
+    "Indoor_dicos",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661458": [
+    null,
+    0,
+    "Indoor_babeila",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661490": [
+    null,
+    0,
+    "Indoor_taipingyangkafei",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661522": [
+    null,
+    0,
+    "Indoor_xianguoshiguang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661554": [
+    null,
+    0,
+    "Indoor_manji",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661586": [
+    null,
+    0,
+    "Indoor_kuaileningmeng",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661618": [
+    null,
+    0,
+    "Indoor_coco",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661650": [
+    null,
+    0,
+    "Indoor_ParisBaguette",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661682": [
+    null,
+    0,
+    "Indoor_gongcha",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661714": [
+    null,
+    0,
+    "Indoor_mianbaoxinyu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661746": [
+    null,
+    0,
+    "Indoor_sanyuanmeiyuan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661778": [
+    null,
+    0,
+    "Indoor_xianyuxian",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661810": [
+    null,
+    0,
+    "Indoor_tanmujiang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661842": [
+    null,
+    0,
+    "Indoor_zippo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661874": [
+    null,
+    0,
+    "Indoor_tebaihui",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661906": [
+    null,
+    0,
+    "Indoor_quchenshi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661938": [
+    null,
+    0,
+    "Indoor_rishang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "661970": [
+    null,
+    0,
+    "Indoor_hualian",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662002": [
+    null,
+    0,
+    "Indoor_wanning",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662066": [
+    null,
+    0,
+    "Indoor_wuyinliangpin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662098": [
+    null,
+    0,
+    "Indoor_711",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662130": [
+    null,
+    0,
+    "Indoor_tongrentang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662162": [
+    null,
+    0,
+    "Indoor_nb",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662194": [
+    null,
+    0,
+    "Indoor_kuangwei",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662226": [
+    null,
+    0,
+    "Indoor_Belle",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662258": [
+    null,
+    0,
+    "Indoor_Tata",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662290": [
+    null,
+    0,
+    "Indoor_tianmeiyi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662322": [
+    null,
+    0,
+    "Indoor_dafuni",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662354": [
+    null,
+    0,
+    "Indoor_ecco",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662386": [
+    null,
+    0,
+    "Indoor_clanks",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662418": [
+    null,
+    0,
+    "Indoor_timberland",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662450": [
+    null,
+    0,
+    "Indoor_361",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662482": [
+    null,
+    0,
+    "Indoor_adidas",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662514": [
+    null,
+    0,
+    "Indoor_crocs",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662546": [
+    null,
+    0,
+    "Indoor_nike",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662578": [
+    null,
+    0,
+    "Indoor_columbia",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662610": [
+    null,
+    0,
+    "Indoor_kolumb",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662642": [
+    null,
+    0,
+    "Indoor_TheNorthFace",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662674": [
+    null,
+    0,
+    "Indoor_puma",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662706": [
+    null,
+    0,
+    "Indoor_selected",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662738": [
+    null,
+    0,
+    "Indoor_cc",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662770": [
+    null,
+    0,
+    "Indoor_ochirly",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662802": [
+    null,
+    0,
+    "Indoor_calvinklein",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662834": [
+    null,
+    0,
+    "Indoor_guess",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662866": [
+    null,
+    0,
+    "Indoor_staccato",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662898": [
+    null,
+    0,
+    "Indoor_refeng",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662930": [
+    null,
+    0,
+    "Indoor_zara",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662962": [
+    null,
+    0,
+    "Indoor_levis",
+    0,
+    null,
+    0,
+    100
+  ],
+  "662994": [
+    null,
+    0,
+    "Indoor_hengyuanxiang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663026": [
+    null,
+    0,
+    "Indoor_gap",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663058": [
+    null,
+    0,
+    "Indoor_zuodannu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663090": [
+    null,
+    0,
+    "Indoor_boss",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663122": [
+    null,
+    0,
+    "Indoor_prada",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663154": [
+    null,
+    0,
+    "Indoor_hm",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663186": [
+    null,
+    0,
+    "Indoor_only",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663218": [
+    null,
+    0,
+    "Indoor_goldlion",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663250": [
+    null,
+    0,
+    "Indoor_youyiku",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663282": [
+    null,
+    0,
+    "Indoor_taidiweini",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663314": [
+    null,
+    0,
+    "Indoor_jiumuwang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663346": [
+    null,
+    0,
+    "Indoor_jeep",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663378": [
+    null,
+    0,
+    "Indoor_eerduosi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663410": [
+    null,
+    0,
+    "Indoor_yageer",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663442": [
+    null,
+    0,
+    "Indoor_lee",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663474": [
+    null,
+    0,
+    "Indoor_BasicHouse",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663506": [
+    null,
+    0,
+    "Indoor_dzzit",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663538": [
+    null,
+    0,
+    "Indoor_bata",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663570": [
+    null,
+    0,
+    "Indoor_givenchy",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663602": [
+    null,
+    0,
+    "Indoor_maxCo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663634": [
+    null,
+    0,
+    "Indoor_feiniao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663666": [
+    null,
+    0,
+    "Indoor_veromoda",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663698": [
+    null,
+    0,
+    "Indoor_gedi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663730": [
+    null,
+    0,
+    "Indoor_vans",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663762": [
+    null,
+    0,
+    "Indoor_camel",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663794": [
+    null,
+    0,
+    "Indoor_CK",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663826": [
+    null,
+    0,
+    "Indoor_jack",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663858": [
+    null,
+    0,
+    "Indoor_disney",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663890": [
+    null,
+    0,
+    "Indoor_mannifen",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663922": [
+    null,
+    0,
+    "Indoor_aimu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663954": [
+    null,
+    0,
+    "Indoor_yiershuang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "663986": [
+    null,
+    0,
+    "Indoor_sangfulan",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664018": [
+    null,
+    0,
+    "Indoor_lego",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664050": [
+    null,
+    0,
+    "Indoor_mcm",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664082": [
+    null,
+    0,
+    "Indoor_elle",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664114": [
+    null,
+    0,
+    "Indoor_coach",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664146": [
+    null,
+    0,
+    "Indoor_lv",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664178": [
+    null,
+    0,
+    "Indoor_baicaoji",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664210": [
+    null,
+    0,
+    "Indoor_oubolai",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664242": [
+    null,
+    0,
+    "Indoor_zirantang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664274": [
+    null,
+    0,
+    "Indoor_sephora",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664306": [
+    null,
+    0,
+    "Indoor_jurlique",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664338": [
+    null,
+    0,
+    "Indoor_fancl",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664370": [
+    null,
+    0,
+    "Indoor_chanel",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664402": [
+    null,
+    0,
+    "Indoor_fendi",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664434": [
+    null,
+    0,
+    "Indoor_loreal",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664466": [
+    null,
+    0,
+    "Indoor_innisfree",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664498": [
+    null,
+    0,
+    "Indoor_tsb",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664530": [
+    null,
+    0,
+    "Indoor_dior",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664562": [
+    null,
+    0,
+    "Indoor_liufuzhubao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664594": [
+    null,
+    0,
+    "Indoor_zhongguohuangjin",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664626": [
+    null,
+    0,
+    "Indoor_laofengxiang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664658": [
+    null,
+    0,
+    "Indoor_zhoudasheng",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664690": [
+    null,
+    0,
+    "Indoor_zhoudafu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664722": [
+    null,
+    0,
+    "Indoor_IDo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664754": [
+    null,
+    0,
+    "Indoor_daimengde",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664786": [
+    null,
+    0,
+    "Indoor_cartier",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664818": [
+    null,
+    0,
+    "Indoor_ajidou",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664850": [
+    null,
+    0,
+    "Indoor_tiansuo",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664882": [
+    null,
+    0,
+    "Indoor_casio",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664914": [
+    null,
+    0,
+    "Indoor_yibobiao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664946": [
+    null,
+    0,
+    "Indoor_tianwangbiao",
+    0,
+    null,
+    0,
+    100
+  ],
+  "664978": [
+    null,
+    0,
+    "Indoor_liangshidian",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665010": [
+    null,
+    0,
+    "Indoor_baodaoyanjing",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665042": [
+    null,
+    0,
+    "Indoor_lg",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665074": [
+    null,
+    0,
+    "Indoor_feilipu",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665106": [
+    null,
+    0,
+    "Indoor_midea",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665138": [
+    null,
+    0,
+    "Indoor_sanxing",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665170": [
+    null,
+    0,
+    "Indoor_huawei",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665202": [
+    null,
+    0,
+    "Indoor_apple",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665234": [
+    null,
+    0,
+    "Indoor_bose",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665266": [
+    null,
+    0,
+    "Indoor_ziranpai",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665298": [
+    null,
+    0,
+    "Indoor_daoxiangcun",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665330": [
+    null,
+    0,
+    "Indoor_juewei",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665362": [
+    null,
+    0,
+    "Indoor_tianfumingcha",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665394": [
+    null,
+    0,
+    "Indoor_jinfengchengxiang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665426": [
+    null,
+    0,
+    "Indoor_huangshanghuang",
+    0,
+    null,
+    0,
+    100
+  ],
+  "665458": [
+    null,
+    0,
+    "Indoor_tangchenbeijian",
+    0,
+    null,
+    0,
+    100
+  ]
+}

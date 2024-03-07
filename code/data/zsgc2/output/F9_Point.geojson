@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3857"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中商广场",
+                "uid": "8c153a1833fc02ea2b201a63",
+                "type": 192,
+                "rank": 20000,
+                "sid": 60001,
+                "icon": null,
+                "class": "购物",
+                "subclass": "购物中心"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12727344.716485513,
+                    3572748.5798272993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "扶梯",
+                "uid": "7e0ad42c71e5869fadcb6673",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1",
+                "class": "生活服务",
+                "subclass": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12727358.511949545,
+                    3572692.5099390196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "扶梯",
+                "uid": "fd5fd454e7f9fa3f04fef5be",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1",
+                "class": "生活服务",
+                "subclass": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12727359.61190634,
+                    3572694.5932653705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海底捞火锅",
+                "uid": "1427d7b8ce8e78f02b201ae4",
+                "type": 252,
+                "rank": 0,
+                "sid": 20660,
+                "icon": "Indoor_haidilao",
+                "class": "美食",
+                "subclass": "中餐���"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12727325.167020392,
+                    3572686.0644433196
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0 user-scalable=no">
+    <title></title>
+</head>
+<body>
+<div id="indoormap" style="height: 700px; width: 900px;"></div>
+<!-- <div id="indoormap" style="height: 100%"></div> -->
+
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.css' rel='stylesheet' />
+
+<script src="js/threebox96new.js"></script>
+<script src="lib/jquery.min.js"></script>
+<script src="lib/Tween.min.js"></script>
+<script src="lib/tinycolor.js"></script>
+<script src="lib/heatmap.js"></script>
+<script src="js/three/Detector.js"></script>
+<!-- <script src="js/dat.gui.js"></script> -->
+<script src="lib/OrbitControls.js"></script>
+<script src="js/three/Projector.js"></script>
+<!-- <script src="js/stats.min.js"></script> -->
+<script src="js/indoor/symbol.js"></script>
+<script src="js/indoor/IndoorMap.js"></script>
+<script src="js/indoor/Theme.js"></script>
+<script src="js/indoor/IndoorMap2d.js"></script>
+<script src="js/indoor/IndoorMap3d.js"></script>
+<link href="css/indoor3D.css" rel="stylesheet">
+<script>
+    //初始化室内地图
+    var para = {
+        dim: "3d",
+        mapDiv:"indoormap"
+    };
+
+    var indoormap = IndoorMap(para);
+    indoormap.load("./data/result/main.json",'baidu', chiconyTheme, function () {
+        indoormap.showAreaNames(false).showPubPoints(true).setSelectable(true).showAllFloors();
+        var ul = IndoorMap.getUL(indoormap);
+        //IndoorMap.test(indoormap);
+        document.body.appendChild(ul);
+
+        indoormap.showSpecificLevelData(0);//显示墙体
+
+    });
+
+
+    function animate(time) {
+        TWEEN.update(time);
+        requestAnimationFrame(animate);
+    }
+
+    requestAnimationFrame(animate);
+
+</script>
+</body>
+</html>

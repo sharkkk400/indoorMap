@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
+    <link href="http://api.map.baidu.com/library/IndoorMap/1.0/src/indoor.min.css?v=1.0.1 " rel="stylesheet" type="text/css">
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family:"微软雅黑";
+            overflow: hidden;
+        }
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+        p {
+            margin-left:5px;
+            font-size:14px;
+        }
+    </style>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=E4805d16520de693a3fe707cdc962045 "></script>
+    <script type="text/javascript" src="http://api.map.baidu.com/library/IndoorMap/1.0/src/indoor.min.js?v=1.0.1 "></script>
+    <title>根据参数初始化室内图</title>
+</head>
+<body>
+    <div id="map"></div>
+    <!-- <div id="r-result">
+        <input type="button" onclick="setIndoorOptions(config1);" value="设置参数1" />
+        <input type="button" onclick="setIndoorOptions(config2);" value="设置参数2" />
+    </div> -->
+</body>
+</html>
+<script type="text/javascript">
+    // 百度地图API功能
+    var map = new BMap.Map("map"); // 创建Map实例
+    var top_left_navigation = new BMap.NavigationControl();  //左上角，添加默认缩放平移控件
+    var top_left_control = new BMap.ScaleControl({anchor: BMAP_ANCHOR_TOP_LEFT});// 左上角，添加比例尺
+    map.addControl(top_left_control);
+    map.addControl(top_left_navigation);
+    map.centerAndZoom(new BMap.Point(114.36291549259,30.53284753657), 18);  // 初始化地图,设置中心点坐标和地图级别
+    map.enableScrollWheelZoom(true); // 开启鼠标滚轮缩放
+
+    var config1 = {
+        // 初始化室内图uid
+        buildingId: 'dcecbcc3f0af7bb8631c67c1',
+        // 初始化室内图楼层
+        floor: 'F1',
+        // 室内图最小缩放级别
+        minZoom: 0,
+        // 室内图最大缩放级别
+        maxZoom: 21,
+        // 是否启用室内图
+        enableIndoor: true,
+        // 是否显示底图
+        showBaseMap: true,
+        // 默认显示室内图控件
+        showIndoorControl: true,
+        // 是否显示室内图图标文字
+        showLabel: true,
+        // 默认进入中心点显示室内图控件
+        autoShowIndoorControl: true,
+        // 室内图加载完成事件
+        complete: function (e) {
+            console.log('complete', e);
+        },
+        // 室内图label文字加载完毕后事件
+        indoorClick: function (e) {
+            console.log('indoorClick', e);
+        },
+        // 切换楼层前事件
+        beforeChangeFloor: function (e) {
+            console.log('beforeChangeFloor', e.currentFloor);
+        },
+        // 切换楼层后事件
+        afterChangeFloor: function (e) {
+            console.log('afterChangeFloor', e.currentFloor);
+        },
+        // 室内图子点点击响应方法
+        labelClick: function (e) {
+            console.log('labelClick', e);
+        },
+        // // 室内图子点获取焦点响应方法
+        // labelMouseOver: function (e) {
+        //     console.log('labelMouseOver', e.uid);
+        // },
+        // // 室内图子点失去焦点响应方法
+        // labelMouseOut: function (e) {
+        //     console.log('labelMouseOut', e.uid);
+        // },
+        getPoiInfoOptions: {
+            // 根据uid获取poi信息接口完成回调函数，（适用于根据uid初始化页面、根据uid设置室内图及楼层、根据uid获取poi信息等方法）
+            onRequestComplete: function (e) {
+                console.log('onRequestComplete', e);
+            },
+            // 根据uid获取poi信息接口成功回调函数
+            onRequestSuccess: function (e) {
+                console.log('onRequestSuccess', e);
+            },
+            // 根据uid获取poi信息接口失败回调函数
+            onRequestError: function (e) {
+                console.log('onRequestError', e);
+            }
+        }
+    };
+
+    var config2 = {
+        // 初始化室内图uid，西单大悦城
+        buildingId: '550fd5f90230ee60921fc9be',
+                     
+        // 初始化室内图楼层
+        floor: 'F2',
+        // 室内图最小缩放级别
+        minZoom: 18,
+        // 室内图最大缩放级别
+        maxZoom: 20,
+        // 是否启用室内图
+        enableIndoor: true,
+        // 是否显示底图
+        showBaseMap: false,
+        // 默认显示室内图控件
+        showIndoorControl: false,
+        // 是否显示室内图图标文字
+        showLabel: false,
+        // 默认进入中心点显示室内图控件
+        autoShowIndoorControl: false
+    };
+
+    // 创建室内图实例
+    var indoorManager = new BMapLib.IndoorManager(map, config1);
+    // 设置室内图参数
+    function setIndoorOptions(config) {
+        indoorManager.setOptions(config);
+    }
+
+</script>
+

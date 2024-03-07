@@ -1,0 +1,237 @@
+/* 大部分样式控制放在这个css文件中 */
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+#indoor3d { 
+    position:absolute; 
+    top:0; 
+    bottom:0; 
+    width:100%; 
+}
+/* #navmenu {
+    position: relative;
+    left: 10px;
+    top: 10px;
+} */
+.mypanel {
+    background-color: #fff;
+    color: #000;    
+    /* width: 20%; */
+    max-width: 200px;
+    position: relative;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    /* 避免被云遮挡   */
+    z-index: 4;
+    border: 1px solid;
+    border-color: #ccc;
+    border-radius: 5px;
+}  
+.citypanel p{
+    margin: 2px;
+} 
+.controlPanel {
+    display: none;
+}
+
+/* 符号控制面板相关 */
+#symbolControlPanel {
+    width: 200px;
+    height: 400px;
+    bottom: 30px;
+    /* right: -200px; */
+    right:5px;
+    position: absolute;
+    padding: 0px;
+}
+#modelTree {
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow-y: auto;
+}
+#symbolPreview {
+    width: 100%;
+    position: absolute;
+    top: 200px;
+    bottom: 34px;
+    left: 0px;
+}
+#symbolButtons {
+    width: 100%;
+    position: absolute;
+    top: 366px;
+    bottom: 0px;
+    left: 0px;
+}
+#toggleSymbolPanel {
+    position:absolute;
+    left: -23px;
+    top: 10px;
+    width: 23px;
+    height: 48px;
+    background-color: rgba(255,255,255,0.9);
+    color: #D4D4D4;
+}
+#moveGUI{ 
+    position: absolute;
+    right: 50px;
+    top: 0px;
+}
+.treeview span.indent {/* 树结构不要缩进太多要不然空间不够 */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/* 台风时间滑块 */
+#typhoon-time-slider {
+    background-color: #fff;
+    box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 3px;
+    padding: 10px;
+    width: 50%;
+    position: absolute;
+    bottom: 50px;
+    display: none;
+}
+
+/* 光照相关控件 */
+.grabby {
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+    cursor: grab;
+}
+.grabbed {
+    cursor: -webkit-grabbing;
+    cursor: -moz-grabbing;
+    cursor: grabbing;
+}
+.crosshair {
+    cursor: -webkit-crosshair;
+    cursor: -moz-crosshair;
+    cursor: crosshair;
+}
+
+/* 轨迹线 */
+.trips {
+    font:bold 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 25%;
+    top: 0;
+    right: 40px;
+    padding: 10px;
+    /* visibility: hidden; */
+    display: none;
+}
+.trips .trips-overlay-inner {
+    background-color: #fff;
+    box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.trips label {
+    display: block;
+    margin: 0 0 10px;
+}
+.trips #trips-time-slider {
+    background-color: transparent;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    margin: 0;
+    cursor: ew-resize;
+}
+
+/* 云 */
+#cloudPosition button{
+    width:20px;
+    height: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+/* animation player css */
+.timeline-wrapper {
+    position:relative;
+    width: auto;
+    height:30px;
+    background:white;
+    transition:1s ease all;
+    border-radius:4px;
+    box-shadow:0 1px 5px rgba(0,0,0,.65)
+}
+.heatmap-timeline {
+    position:absolute;
+    top:0;
+    right:15px;
+    left:80px;
+    right:80px;
+    height:100%;
+}
+
+.heatmap-timeline .line {
+    position:absolute;
+    left:0;
+    right:0;
+    top:15px;
+    height:2px;
+    background:#d7d7d7;
+}
+.heatmap-timeline .time-point.active {
+    height: 15px;
+    background: black;
+    z-index: 1;
+}
+.heatmap-timeline .time-point {
+    position:absolute;
+    background:grey;
+    width:5px;
+    height:5px;
+    cursor:pointer;
+    top:15px;
+    transform:translateX(-50%) translateY(-50%);
+}
+.heatmap-timeline .time-point:hover {
+    box-shadow:0 0 10px black;
+}
+.timeline-wrapper button {
+    position:absolute;
+    outline:none;
+    color: black;
+    background: #f2f2f2;
+    width: 65px;
+    height: 100%;
+    cursor: pointer;
+    border: none;
+    text-transform:uppercase;
+    border-top-left-radius:3px;
+    border-bottom-left-radius:3px;
+}
+.timeline-wrapper label{
+    position: absolute;
+    width: 65px;
+    height: 100%;
+    right: 0px;
+    line-height: 30px;
+}        
+/* end animation player css */
+
+#animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    will-change: transform;
+}

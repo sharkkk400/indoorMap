@@ -1,0 +1,2367 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3857"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40070,
+                    37258
+                ]
+            },
+            "properties": {
+                "name": "中商广场",
+                "uid": "8c153a1833fc02ea2b201a63",
+                "type": 192,
+                "rank": 20000,
+                "sid": 60001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36877,
+                    27060
+                ]
+            },
+            "properties": {
+                "name": "地下停车场入口",
+                "uid": "09bb060ee8be9a49715e808c",
+                "type": 124,
+                "rank": 19500,
+                "sid": 58,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36164,
+                    30633
+                ]
+            },
+            "properties": {
+                "name": "地下停车场出口",
+                "uid": "fb8f88415bc81a778a36ee55",
+                "type": 124,
+                "rank": 19500,
+                "sid": 58,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39591,
+                    27220
+                ]
+            },
+            "properties": {
+                "name": "东5门",
+                "uid": "1bf86e7e686daa5dc42ba1ae",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44300,
+                    39120
+                ]
+            },
+            "properties": {
+                "name": "东1门",
+                "uid": "54f350d8c4c107b917c8f6ce",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43617,
+                    34940
+                ]
+            },
+            "properties": {
+                "name": "东3门",
+                "uid": "5138b7eeb9cf07634e5547e3",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42597,
+                    35549
+                ]
+            },
+            "properties": {
+                "name": "东2门",
+                "uid": "8d2730a18868fea92bd7ab25",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42258,
+                    31055
+                ]
+            },
+            "properties": {
+                "name": "东4门",
+                "uid": "9d32919a13c65f983ce23168",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45527,
+                    42784
+                ]
+            },
+            "properties": {
+                "name": "北门",
+                "uid": "8cc43bc4dae1c4d551e5c523",
+                "type": 124,
+                "rank": 19500,
+                "sid": 57,
+                "icon": "Indoor_Entry1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36112,
+                    27662
+                ]
+            },
+            "properties": {
+                "name": "男洗手间",
+                "uid": "c20a2fa47c53d149b45f1e8c",
+                "type": 124,
+                "rank": 18250,
+                "sid": 60,
+                "icon": "Indoor_Toilet2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36366,
+                    27590
+                ]
+            },
+            "properties": {
+                "name": "女洗手间",
+                "uid": "a664f89358df2016d418b734",
+                "type": 124,
+                "rank": 18250,
+                "sid": 61,
+                "icon": "Indoor_Toilet3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40530,
+                    29515
+                ]
+            },
+            "properties": {
+                "name": "一站式服务中心",
+                "uid": "d7f2b463bcea2efb43024539",
+                "type": 124,
+                "rank": 18000,
+                "sid": 29,
+                "icon": "Indoor_Public3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38534,
+                    31852
+                ]
+            },
+            "properties": {
+                "name": "咨询台",
+                "uid": "b6fe04fcffb760c1c61e512a",
+                "type": 124,
+                "rank": 18000,
+                "sid": 29,
+                "icon": "Indoor_Public3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38772,
+                    26393
+                ]
+            },
+            "properties": {
+                "name": "服务台",
+                "uid": "8382cb64b9262457a6da3920",
+                "type": 124,
+                "rank": 18000,
+                "sid": 29,
+                "icon": "Indoor_Public3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36641,
+                    29820
+                ]
+            },
+            "properties": {
+                "name": "ATM",
+                "uid": "4b580b4208cee07695f08c88",
+                "type": 124,
+                "rank": 17250,
+                "sid": 66,
+                "icon": "Indoor_Bank2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36120,
+                    44055
+                ]
+            },
+            "properties": {
+                "name": "收银台",
+                "uid": "52e38b7a05457e422ee67b96",
+                "type": 60,
+                "rank": 17000,
+                "sid": 50,
+                "icon": "Indoor_Public9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40408,
+                    43501
+                ]
+            },
+            "properties": {
+                "name": "收银台",
+                "uid": "614b321b4199c75c17b54b0d",
+                "type": 60,
+                "rank": 17000,
+                "sid": 50,
+                "icon": "Indoor_Public9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38627,
+                    39555
+                ]
+            },
+            "properties": {
+                "name": "收银台",
+                "uid": "47006413737c76b0c1f1cffe",
+                "type": 60,
+                "rank": 17000,
+                "sid": 50,
+                "icon": "Indoor_Public9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36521,
+                    28004
+                ]
+            },
+            "properties": {
+                "name": "员工区域",
+                "uid": "3f7a0ef6212d63651b94c60c",
+                "type": 60,
+                "rank": 16500,
+                "sid": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42070,
+                    42545
+                ]
+            },
+            "properties": {
+                "name": "LANVIN",
+                "uid": "05bf94dc0aeb0444afcb66f1",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39746,
+                    39334
+                ]
+            },
+            "properties": {
+                "name": "MAOGEPING",
+                "uid": "3446d45f618ea3f54207c104",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43734,
+                    40819
+                ]
+            },
+            "properties": {
+                "name": "薇姿",
+                "uid": "8f3f2750f73db60b8415412e",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40790,
+                    36900
+                ]
+            },
+            "properties": {
+                "name": "皙阁",
+                "uid": "33c41e6a292baf11734b87fb",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43247,
+                    40166
+                ]
+            },
+            "properties": {
+                "name": "FONDBEAUTY",
+                "uid": "1a610fc4dc9c67355abbbc0f",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41621,
+                    36532
+                ]
+            },
+            "properties": {
+                "name": "泊伊美汇",
+                "uid": "5ca550ac137b85013617dc69",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40764,
+                    41400
+                ]
+            },
+            "properties": {
+                "name": "嘉媚乐",
+                "uid": "b304e4c2b255bdebb11e3603",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40600,
+                    38966
+                ]
+            },
+            "properties": {
+                "name": "MAOGEPING",
+                "uid": "3446d45f618ea3f54207c104",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42393,
+                    40534
+                ]
+            },
+            "properties": {
+                "name": "兰芝",
+                "uid": "16ea2e6466d7721dd4b74ee0",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41362,
+                    41129
+                ]
+            },
+            "properties": {
+                "name": "DHC",
+                "uid": "f50b4b4c8ce11fd95b1093d6",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43545,
+                    41239
+                ]
+            },
+            "properties": {
+                "name": "理肤泉",
+                "uid": "d746e96077e78abce856fa0d",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41960,
+                    41605
+                ]
+            },
+            "properties": {
+                "name": "Avene",
+                "uid": "96a7fd38ded0a241aecb660c",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42760,
+                    39101
+                ]
+            },
+            "properties": {
+                "name": "GUCCI",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40643,
+                    39880
+                ]
+            },
+            "properties": {
+                "name": "L'OCCITANE",
+                "uid": "d2a9f9481693d7158d77270e",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41144,
+                    37705
+                ]
+            },
+            "properties": {
+                "name": "OLAY",
+                "uid": "a3bdb6ddec67e9a61b11d5ca",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38982,
+                    39666
+                ]
+            },
+            "properties": {
+                "name": "英树",
+                "uid": "fefa176549dc12932fe67bf8",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43134,
+                    42169
+                ]
+            },
+            "properties": {
+                "name": "丸美",
+                "uid": "5f4afc37d5d78c8f08ccdd45",
+                "type": 252,
+                "rank": 15700,
+                "sid": 84,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36329,
+                    45011
+                ]
+            },
+            "properties": {
+                "name": "PLOVER",
+                "uid": "b7e941e0d2f62acf9fec2bc9",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36064,
+                    44414
+                ]
+            },
+            "properties": {
+                "name": "聚雅",
+                "uid": "5dfbdf6f72e4038fc72ba19b",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39387,
+                    44586
+                ]
+            },
+            "properties": {
+                "name": "哈森",
+                "uid": "f597c788fbf8f08485420ecb",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37304,
+                    32495
+                ]
+            },
+            "properties": {
+                "name": "唯品会",
+                "uid": "abb0fd56174607dbb75f1ef3",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37715,
+                    43908
+                ]
+            },
+            "properties": {
+                "name": "百思图BASTO",
+                "uid": "48347e7ba772ab6c0a5cb3e5",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38528,
+                    38885
+                ]
+            },
+            "properties": {
+                "name": "沙驰男鞋",
+                "uid": "a574a153a0825fecd13ce3b7",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36287,
+                    42322
+                ]
+            },
+            "properties": {
+                "name": "千百度",
+                "uid": "8b8e3b99c8c4d838157643fa",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35711,
+                    42580
+                ]
+            },
+            "properties": {
+                "name": "扣姿",
+                "uid": "04ffc6671ba77ec801294fef",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35334,
+                    43254
+                ]
+            },
+            "properties": {
+                "name": "木林森",
+                "uid": "6aa085fb49c569b0932ca390",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36841,
+                    42064
+                ]
+            },
+            "properties": {
+                "name": "le saunda",
+                "uid": "afbfdaed7eb9159c9e9d6872",
+                "type": 252,
+                "rank": 15700,
+                "sid": 82,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40619,
+                    42387
+                ]
+            },
+            "properties": {
+                "name": "MGG(中商广场\\中南路店)",
+                "uid": "a652a9fe96cedb4e1d1d11cc",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41856,
+                    34711
+                ]
+            },
+            "properties": {
+                "name": "周生生",
+                "uid": "0754b86cc5a688c738e4a67a",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39863,
+                    32587
+                ]
+            },
+            "properties": {
+                "name": "周大福",
+                "uid": "be54cde9746e084178f79613",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43100,
+                    43068
+                ]
+            },
+            "properties": {
+                "name": "NIVADA",
+                "uid": "a70044151ee70213c42ba144",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43510,
+                    43000
+                ]
+            },
+            "properties": {
+                "name": "MIDO",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38755,
+                    32924
+                ]
+            },
+            "properties": {
+                "name": "恒翠",
+                "uid": "59fbfdfe7b5d6f89130daa45",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43388,
+                    43666
+                ]
+            },
+            "properties": {
+                "name": "UNION\\GLASHUTTE/SA",
+                "uid": "87c448b5a0e94ddde8f85392",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40791,
+                    35846
+                ]
+            },
+            "properties": {
+                "name": "何世玉",
+                "uid": "76b65e6b1f4c3e05028972ca",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43753,
+                    43545
+                ]
+            },
+            "properties": {
+                "name": "HAMILTOn",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44510,
+                    40217
+                ]
+            },
+            "properties": {
+                "name": "LONGINES",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40663,
+                    43313
+                ]
+            },
+            "properties": {
+                "name": "飞亚达",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41060,
+                    32162
+                ]
+            },
+            "properties": {
+                "name": "千叶珠宝",
+                "uid": "50de1a2cf401bb14a8059de4",
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42768,
+                    43331
+                ]
+            },
+            "properties": {
+                "name": "TITONI",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44841,
+                    41137
+                ]
+            },
+            "properties": {
+                "name": "TUDOR",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 83,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36652,
+                    43372
+                ]
+            },
+            "properties": {
+                "name": "COMELY",
+                "uid": "7e681b735d1782ebb75f1e3d",
+                "type": 252,
+                "rank": 15700,
+                "sid": 98,
+                "icon": "Indoor_Shop7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39435,
+                    41102
+                ]
+            },
+            "properties": {
+                "name": "女鞋特卖区",
+                "uid": "dafec3ad80d1672d130daa73",
+                "type": 252,
+                "rank": 15700,
+                "sid": 98,
+                "icon": "Indoor_Shop7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38902,
+                    42364
+                ]
+            },
+            "properties": {
+                "name": "PIKOLINOS",
+                "uid": "d47f68a306748e6821f017e2",
+                "type": 252,
+                "rank": 15700,
+                "sid": 98,
+                "icon": "Indoor_Shop7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38106,
+                    40213
+                ]
+            },
+            "properties": {
+                "name": "achette",
+                "uid": "eb8d5ad7684ae8cb9ff77919",
+                "type": 252,
+                "rank": 15700,
+                "sid": 98,
+                "icon": "Indoor_Shop7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38146,
+                    44958
+                ]
+            },
+            "properties": {
+                "name": "富贵鸟",
+                "uid": "2f219d39e1e5a7c741d63e1c",
+                "type": 252,
+                "rank": 15700,
+                "sid": 98,
+                "icon": "Indoor_Shop7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41573,
+                    40658
+                ]
+            },
+            "properties": {
+                "name": "箱包店",
+                "uid": "c32af7cb87e60b873904b11e",
+                "type": 252,
+                "rank": 15700,
+                "sid": 85,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42895,
+                    36880
+                ]
+            },
+            "properties": {
+                "name": "新秀丽",
+                "uid": "f467f95d71e072c9077ce82a",
+                "type": 252,
+                "rank": 15700,
+                "sid": 85,
+                "icon": "Indoor_Shop1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39911,
+                    28923
+                ]
+            },
+            "properties": {
+                "name": "中国烟草",
+                "uid": "56764c58fdc1f07616c905d1",
+                "type": 252,
+                "rank": 15700,
+                "sid": 88,
+                "icon": "Indoor_Shop2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41406,
+                    28954
+                ]
+            },
+            "properties": {
+                "name": "COSTA COFFEE",
+                "uid": "1558ced9a18792f8cd04ef75",
+                "type": 252,
+                "rank": 15700,
+                "sid": 104,
+                "icon": "indoor_Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41804,
+                    30210
+                ]
+            },
+            "properties": {
+                "name": "HUAWEI",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 93,
+                "icon": "Indoor_Shop5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39573,
+                    34381
+                ]
+            },
+            "properties": {
+                "name": "契意坊",
+                "uid": "ca20849a392b0301f5e73b86",
+                "type": 252,
+                "rank": 15700,
+                "sid": 90,
+                "icon": "Indoor_Shop3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42286,
+                    36468
+                ]
+            },
+            "properties": {
+                "name": "工艺礼品店",
+                "uid": "11165da337febc7b3010afc6",
+                "type": 252,
+                "rank": 15700,
+                "sid": 92,
+                "icon": "Indoor_Shop4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44205,
+                    34438
+                ]
+            },
+            "properties": {
+                "name": "书亦烧仙草",
+                "uid": "53206eaa3f0f588543ab9a90",
+                "type": 252,
+                "rank": 15700,
+                "sid": 106,
+                "icon": "Indoor_Food4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43152,
+                    34764
+                ]
+            },
+            "properties": {
+                "name": "书亦烧仙草",
+                "uid": null,
+                "type": 252,
+                "rank": 15700,
+                "sid": 106,
+                "icon": "Indoor_Food4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39166,
+                    31286
+                ]
+            },
+            "properties": {
+                "name": "梦洁",
+                "uid": "01a6bbf617a9f077cafa5f07",
+                "type": 252,
+                "rank": 15700,
+                "sid": 89,
+                "icon": "Indoor_Shop2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39201,
+                    29783
+                ]
+            },
+            "properties": {
+                "name": "小米之家",
+                "uid": null,
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39112,
+                    43307
+                ]
+            },
+            "properties": {
+                "name": "KADINA",
+                "uid": "9d23d813288c5f33250bd035",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38947,
+                    28839
+                ]
+            },
+            "properties": {
+                "name": "美团智能取餐柜",
+                "uid": "3cab88616c9ea7a893114c59",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38709,
+                    35108
+                ]
+            },
+            "properties": {
+                "name": "九木杂物社",
+                "uid": "e6ee51ec7542485ab75f1ec5",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39516,
+                    36501
+                ]
+            },
+            "properties": {
+                "name": "皮鞋皮具护理",
+                "uid": "90d567c13fd4c4fbcb29159a",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39051,
+                    36517
+                ]
+            },
+            "properties": {
+                "name": "皮草护理",
+                "uid": "a612adb82d1ae4f545572629",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43596,
+                    33256
+                ]
+            },
+            "properties": {
+                "name": "花店",
+                "uid": "32099a2109836688dbd89113",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42553,
+                    35664
+                ]
+            },
+            "properties": {
+                "name": "黄铂金定制",
+                "uid": "ee19b96201f597a117c8f60d",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37177,
+                    37931
+                ]
+            },
+            "properties": {
+                "name": "生活垃圾堆放处",
+                "uid": "1dbd4189ef4f1798d6b74e40",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38500,
+                    33548
+                ]
+            },
+            "properties": {
+                "name": "消防应急柜",
+                "uid": "cf32866124a7bc5240024500",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37727,
+                    30331
+                ]
+            },
+            "properties": {
+                "name": "唯品会",
+                "uid": "abb0fd56174607dbb75f1ef3",
+                "type": 60,
+                "rank": 15600,
+                "sid": 157,
+                "icon": "Indoor_Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38684,
+                    37667
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "a5df6eeadc22a1ca9f09f7de",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45339,
+                    42343
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "9b949a606c64c2e1e8e582cc",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41814,
+                    44186
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "f97acc799f765b6fe8e582d6",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42585,
+                    36217
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "cc9e52fb0f05b266871541e4",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43097,
+                    34158
+                ]
+            },
+            "properties": {
+                "name": "楼梯",
+                "uid": "9a4b9459514ce231932ca3bd",
+                "type": 60,
+                "rank": 15550,
+                "sid": 54,
+                "icon": "Indoor_Elevator2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34601,
+                    44396
+                ]
+            },
+            "properties": {
+                "name": "直梯(货梯)",
+                "uid": "b69178d02e28a0c9b21e3660",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37584,
+                    28785
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "95c7f69b1874918cca291508",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36056,
+                    28213
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "89c82673392008d917948e21",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35523,
+                    28665
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "b72d035864ffe523aecb662e",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44807,
+                    42474
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "54ce9a3f26b2ed31c056acf9",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43475,
+                    32983
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "64bb2a10efa8030a2fe67b09",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39240,
+                    36007
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "3b1a1c9acf5aca1342d63eb2",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35734,
+                    28091
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "732e6a5b45913bc15b109337",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43718,
+                    33502
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "1193e6b20b584297b5f42f86",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36875,
+                    28796
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "ee5b71bf8730717b5cd4fe31",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43828,
+                    33749
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "8fe277333c850d50c336446e",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41481,
+                    44539
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "021ebf8c8c894fe98505bfc2",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36166,
+                    28936
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "9693cf21e037a8d8cafa5f69",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38885,
+                    36154
+                ]
+            },
+            "properties": {
+                "name": "直梯(货梯)",
+                "uid": "41332841fe1d3bc6d6b74e86",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36753,
+                    29076
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "88fbc9abbdba61b2eb56fa18",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36986,
+                    28503
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "3b1a1c9acf5aca1342d63eb2",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35834,
+                    28800
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "5416646537be84b5dbd891f7",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34480,
+                    44123
+                ]
+            },
+            "properties": {
+                "name": "直梯(货梯)",
+                "uid": "0924aae309a97d27a2a9348f",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37473,
+                    29066
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "502bf85cf9c88b1dad0457eb",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36377,
+                    28348
+                ]
+            },
+            "properties": {
+                "name": "直梯(客梯)",
+                "uid": "b91601e7b0a3b8f635b06cf3",
+                "type": 60,
+                "rank": 15550,
+                "sid": 55,
+                "icon": "Indoor_Elevator3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40205,
+                    34240
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "fa9e8186c45b88fe07026f4a",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40598,
+                    40779
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "08ca0a1826b26acc6f20b9fb",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39983,
+                    34299
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "1d3bf15f98339d92c9fa5f99",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40610,
+                    40329
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "7ce7f94fce93f9b58936eea0",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40399,
+                    41096
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "e149820e87b1c25d2b3a9f2c",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40521,
+                    40598
+                ]
+            },
+            "properties": {
+                "name": "扶梯",
+                "uid": "3966f0ed6a699a21f4b91685",
+                "type": 60,
+                "rank": 15550,
+                "sid": 53,
+                "icon": "Indoor_Elevator1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40496,
+                    30838
+                ]
+            },
+            "properties": {
+                "name": "老凤祥银楼",
+                "uid": "c39e542bdb5d93d8b04c493d",
+                "type": 252,
+                "rank": 0,
+                "sid": 20769,
+                "icon": "Indoor_laofengxiang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37339,
+                    43051
+                ]
+            },
+            "properties": {
+                "name": "天美意",
+                "uid": "777f4f1dfa3ca04ab817e72f",
+                "type": 252,
+                "rank": 0,
+                "sid": 20696,
+                "icon": "Indoor_tianmeiyi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42822,
+                    32147
+                ]
+            },
+            "properties": {
+                "name": "周大福",
+                "uid": "be54cde9746e084178f79613",
+                "type": 252,
+                "rank": 0,
+                "sid": 20771,
+                "icon": "Indoor_zhoudafu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40518,
+                    44223
+                ]
+            },
+            "properties": {
+                "name": "百丽",
+                "uid": "716f9c1d3da67dc04e2fdfbc",
+                "type": 252,
+                "rank": 0,
+                "sid": 20694,
+                "icon": "Indoor_Belle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38604,
+                    41406
+                ]
+            },
+            "properties": {
+                "name": "思加图",
+                "uid": "04651e65660c0a7e283a9fdd",
+                "type": 252,
+                "rank": 0,
+                "sid": 20714,
+                "icon": "Indoor_staccato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40483,
+                    33757
+                ]
+            },
+            "properties": {
+                "name": "六福珠宝",
+                "uid": "08feeb95bcaec68fca1b9564",
+                "type": 252,
+                "rank": 0,
+                "sid": 20767,
+                "icon": "Indoor_liufuzhubao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35599,
+                    43915
+                ]
+            },
+            "properties": {
+                "name": "BATA鞋店",
+                "uid": "0ba3a07e83372cdf3c9a5eb7",
+                "type": 252,
+                "rank": 0,
+                "sid": 20735,
+                "icon": "Indoor_bata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41986,
+                    37337
+                ]
+            },
+            "properties": {
+                "name": "欧莱雅",
+                "uid": "48aca0d1de968bd6dbd8917c",
+                "type": 252,
+                "rank": 0,
+                "sid": 20763,
+                "icon": "Indoor_loreal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41520,
+                    38574
+                ]
+            },
+            "properties": {
+                "name": "欧珀莱",
+                "uid": "585c9a48289f56e29c9d6804",
+                "type": 252,
+                "rank": 0,
+                "sid": 20756,
+                "icon": "Indoor_oubolai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41772,
+                    42025
+                ]
+            },
+            "properties": {
+                "name": "自然堂",
+                "uid": "50e5d004b503faf840afe696",
+                "type": 252,
+                "rank": 0,
+                "sid": 20757,
+                "icon": "Indoor_zirantang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43909,
+                    42866
+                ]
+            },
+            "properties": {
+                "name": "TISSOT",
+                "uid": null,
+                "type": 252,
+                "rank": 0,
+                "sid": 20776,
+                "icon": "Indoor_tiansuo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41405,
+                    42917
+                ]
+            },
+            "properties": {
+                "name": "天王表",
+                "uid": null,
+                "type": 252,
+                "rank": 0,
+                "sid": 20779,
+                "icon": "Indoor_tianwangbiao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40113,
+                    38172
+                ]
+            },
+            "properties": {
+                "name": "ecco",
+                "uid": "43a43026401c76004bcc4aed",
+                "type": 252,
+                "rank": 0,
+                "sid": 20698,
+                "icon": "Indoor_ecco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37260,
+                    45351
+                ]
+            },
+            "properties": {
+                "name": "骆驼",
+                "uid": "3ec2407f0fea49cf16948e42",
+                "type": 252,
+                "rank": 0,
+                "sid": 20742,
+                "icon": "Indoor_camel"
+            }
+        }
+    ]
+}

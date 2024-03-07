@@ -1,0 +1,152 @@
+.mapLabels {
+    font-size: 10px;
+    text-align:center;
+    text-shadow:#ffffff 1px 0 0,#ffffff 0 1px 0,#ffffff -1px 0 0,#ffffff 0 -1px 0;
+}
+
+.mapLabels img{
+    width: 15px;
+    height: 15px;
+}
+
+@media screen {
+    .mapLabels .pubPoints img {
+        width: 25px;
+        height: 25px;
+        -webkit-border-radius: 25px;
+        border: 2px #a72525 solid;
+    }
+}
+
+.floorsUI, .testButton
+{
+    position: absolute;;
+    list-style: none;
+    padding: 0;
+    left: 0px;
+}
+
+.floorsUI{
+    top:50%;
+    width: 40px;
+    transform: translateY(-50%);
+    margin: 0;    
+}
+
+.testButton{
+    margin-left: auto;
+    margin-right: 2px;
+    top: 100px;
+    float:right;
+    width: 100%;
+}
+.testButton ul{
+    float: right;
+
+}
+.floorsUI li, .testButton li{
+    width:40px;
+    height: 40px;
+    max-width: 100px;
+    padding: 10px;
+    background-color: #e8e8e8 ;
+    border: 1px solid #bbbbbb;
+    text-align: center;
+    list-style-type:none;
+}
+
+.floorsUI .selected{
+    background-color: #cccccc !important;
+}
+
+.indoormenu {
+    position: absolute;
+    right: 0px;
+    top:50%;
+    transform: translateY(-50%); 
+    background-color:  #e8e8e8;
+    width: 144px;
+    /* 为了让两行按钮之间没有空隙 */
+    font-size: 0px;
+}
+
+.indoormenu button {
+    width: 40px;
+    height: 40px;
+    background-color:  #e8e8e8;
+    border: 1px solid #bbbbbb;
+    margin:0px;
+    cursor: pointer;
+}
+
+.indoormenu label {
+    font-size: small;
+}
+
+.indoorsetting {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    width: 20%;
+    max-width: 200px;
+}
+
+.indoorsetting #opensetting {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 40px;
+    height: 40px;
+    background-color:  #e8e8e8;
+    border: 1px solid #bbbbbb;
+    margin:0px;
+}
+
+.indoorsetting #settingpanel {
+    position: absolute;
+    top:40px;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid;
+    border-color: #ccc;
+    border-radius: 5px;
+}
+
+.indoorsetting .interestedclasses {
+    display: inline;
+}
+
+/* POI符号的图例 */
+
+.legend {
+    background-color: #fff;
+    border-radius: 3px;
+    /* bottom: 10px; */
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    font: 12px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+}
+
+.legend h4 {
+    margin: 0 0 10px;
+}
+
+.legend div {
+    height: 25px;
+    line-height: 25px;
+}
+
+.legend div span {
+    background-size: 100%;
+    border-radius: 50%;
+    display: inline-block;
+    height: 20px;
+    margin-right: 5px;
+    width: 20px;
+    vertical-align:middle;
+}
